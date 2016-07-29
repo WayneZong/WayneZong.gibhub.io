@@ -1,3 +1,31 @@
+img {
+  height:200px;
+  border-radius:75px;
+}
+
+#hi {
+ display:block
+}
+
+#hello {
+  display:block
+}
+
+#bye {
+  display:block
+}
+
+.writing {
+ position: relative;
+ padding: 15px;
+ display: inline;
+}
+
+p{
+color:white
+}
+ 
+
 h1{
 color:white;
 }
@@ -7,7 +35,14 @@ background-color: skyblue;
 }
 
 
-img {
- height: 100px;   
-    
-}
+
+
+
+
+
+
+
+
+
+
+
